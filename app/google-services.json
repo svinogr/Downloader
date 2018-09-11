@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367933937967",
+    "firebase_url": "https://downloader-5851a.firebaseio.com",
+    "project_id": "downloader-5851a",
+    "storage_bucket": "downloader-5851a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367933937967:android:ca93dfaf91f31fbb",
+        "android_client_info": {
+          "package_name": "upump.info.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367933937967-ovhk1ia5ovjsk1qkimchf9gpovcp9mmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upump.info.downloader",
+            "certificate_hash": "9e076b096805168460a9a936d6183275bb896b86"
+          }
+        },
+        {
+          "client_id": "367933937967-ngdp2ldur7rvq4grkhjkrhdu1h006smr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaahLeny-FA6kexJIzjSN2TQBMDqOEvxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367933937967-ngdp2ldur7rvq4grkhjkrhdu1h006smr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
