@@ -24,8 +24,8 @@ class DownloadHolder extends RecyclerView.ViewHolder {
         itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = DetailActivity.createIntent();
-                context.startActivity(intent);
+                //TODO сделать открытие файла
+
             }
         });
     }

@@ -3,8 +3,9 @@ package upump.info.downloader.model;
 import java.net.URL;
 
 public class Download {
+    private int id;
     private String name;
-    private URL url;
+    private String url;
     private boolean finished;
     private URL alterurl;
 
@@ -19,11 +20,11 @@ public class Download {
         this.name = name;
     }
 
-    public URL getUrl() {
+    public String getUrl() {
         return url;
     }
 
-    public void setUrl(URL url) {
+    public void setUrl(String url) {
         this.url = url;
     }
 
@@ -41,5 +42,13 @@ public class Download {
 
     public void setAlterurl(URL alterurl) {
         this.alterurl = alterurl;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 }
